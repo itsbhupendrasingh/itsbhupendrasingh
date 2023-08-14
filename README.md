@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 - Founder member and shareholder of SME Dehradun and SolveVolve Private Limited.
 - Director- Technical Affairs and Founder of HillyTech Starter Private Limited Company.
-- Provides Product Design, R&D support, and Patent Consultancy to Industries and Universities.
 - Executive Director, Design & Innovative Council in IGET- Intellect Society for Graduates of Engineering & Technology, India.
+- Provides Product Design, R&D support, and Patent Consultancy to Industries and Universities.
 - Cisco Certified Expert CCNA & Microsoft Certified System Administrator (MCSA).
 - Author of more than Seventeen books in the area of Embedded Systems and IoT.
 
