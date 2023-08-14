@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 - "Wireless Personal Area Network and PSO based home security system" - IC3T-2015, Hyderabad, July 2015
 - "Wireless Disaster Monitoring and Management System for Dams System" - ICCC-2014, Bhubaneswar, Dec 2014
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/bhupendrasingh23/) | Follow me on [Twitter](https://twitter.com/BhupendraSingh) | Check out my [Website](https://www.bhupendrasingh.com/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mrbhupendra/) | Follow me on [Twitter](https://twitter.com/itsbhupendra) 
