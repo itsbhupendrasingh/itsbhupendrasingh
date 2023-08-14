@@ -27,14 +27,15 @@ Here are some ideas to get you started:
 - Cisco Certified Expert CCNA & Microsoft Certified System Administrator (MCSA).
 - Author of more than Seventeen books in the area of Embedded Systems and IoT.
 
-## Patents
+## Patents (4 Nos)
 
 1. WPAN based Smart Remote Control for Heater - Application No: 1405/DEL/2014
 2. A System for Assuring Wearing of Helmet by a Rider and a Process Thereof - Application no: 1303/DEL/2014
 3. A CONTACTLESS SWITCH - Application no: 1405/DEL/2014
 4. WPAN BASED MULTI-NODE LED DYNAMIC DISPLAY DEVICE SYSTEM - Application no: 1557/DEL/2014
 
-## Published Books (CRC/Taylor & Francis, Bentham Science, Narosa, GBS, IRP, NIPA and RI publication. He is also have 4 book chapters and 2 International Conference etc)
+## Published Books (17 Nos)
+(CRC/Taylor & Francis, Bentham Science, Narosa, GBS, IRP, NIPA and RI publication. He is also have 4 book chapters and 2 International Conference etc)
 
 1. Rajesh Singh, Anita Gehlot, Sushabhan Choudhury, Bhupendra Singh, “Embedded System based on ATmega Microcontroller-Simulation, Interfacing and Projects”, Narosa Publishing House, 2016, ISBN: 978-81-8487-5720.
 2. Rajesh Singh, Anita Gehlot, Bhupendra Singh, Sushabhan Choudhury, “Arduino-Based Embedded Systems: Interfacing, Simulation, and LabVIEW GUI”- CRC Press (Taylor & Francis), 2017, ISBN 978-11-3806-0784.
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 16. Rajesh Singh, Anita Gehlot, Lovi Raj Gupta, Navjot Rathour, Mahendra Swain, Bhupendra Singh, “IoT based projects”, BPB publication, 2020, ISBN: 9789389328523
 17. Anita Gehlot, Rajesh Singh, Praveen Kumar Malik, Lovi Raj Gupta, Bhupendra Singh, “Internet of Things with 8051 and ESP8266”, CRC press (Taylor & Francis), 2020, ISBN: 9780367534783
 
-## Book Chapters
+## Book Chapters (4 Nos)
 
 1. Rajesh Singh, Anita Gehlot, Rohit Samkaria, Shivam Kumar, Bhupendra Singh, “Role of Fire Safety Engineering Methods and Devices in Present Scenario: Review” LoRA and IoT Networks for Applications in Industry 4.0, ISBN: 978-1-53617-164-8, Dec2019.
 2. Anita Gehlot , Rajesh Singh, Rohit Samkria, S Choudhury, Bhupendra Singh, “Mobile platform Localization in indoor/outdoor Techniques: A Review”  LoRA and IoT Networks for Applications in Industry 4.0, ISBN: 978-1-53617-164-8, Dec2019.
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 4. Anita Gehlot , Rajesh Singh, RohitSamkria, S Choudhury, Bhupendra Singh, “Mobile platform Localization in indoor/outdoor Techniques: A Review”  LoRA and IoT Networks for Applications in Industry 4.0, ISBN: 978-1-53617-164-8, Dec2019 
 
 
-## International Conferences
+## International Conferences (2 Nos)
 
 - "Wireless Personal Area Network and PSO based home security system" - IC3T-2015, Hyderabad, July 2015
 - "Wireless Disaster Monitoring and Management System for Dams System" - ICCC-2014, Bhubaneswar, Dec 2014
