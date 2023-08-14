@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 4. WPAN BASED MULTI-NODE LED DYNAMIC DISPLAY DEVICE SYSTEM - Application no: 1557/DEL/2014
 
 ## Published Books (17 Nos)
-(CRC/Taylor & Francis, Bentham Science, Narosa, GBS, IRP, NIPA and RI publication. He is also have 4 book chapters and 2 International Conference etc)
+(CRC/Taylor & Francis, Bentham Science, Narosa, GBS, IRP, NIPA and RI publication etc)
 
 1. Rajesh Singh, Anita Gehlot, Sushabhan Choudhury, Bhupendra Singh, “Embedded System based on ATmega Microcontroller-Simulation, Interfacing and Projects”, Narosa Publishing House, 2016, ISBN: 978-81-8487-5720.
 2. Rajesh Singh, Anita Gehlot, Bhupendra Singh, Sushabhan Choudhury, “Arduino-Based Embedded Systems: Interfacing, Simulation, and LabVIEW GUI”- CRC Press (Taylor & Francis), 2017, ISBN 978-11-3806-0784.
