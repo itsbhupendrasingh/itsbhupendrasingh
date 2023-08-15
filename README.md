@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 # Bhupendra Singh
 
-- 👨‍💻 Director- Technical | Founder | Inventor | Author | Educator
+- 👨‍💻 Founder | Director | Inventor | Author | Educator
+- 4 Patents | 52 Copyright Grant| 1 Design Patent Grant | 17 National & International Books | 4 Book Chapters
 - 🔭 Passionate Technologist with over sixteen years of experience in the fields of Embedded Systems, Computer Networks, IoT and Cloud.
+
   
 - Founder member and shareholder of SME Dehradun and SolveVolve Private Limited.
 - Director- Technical Affairs and Founder of HillyTech Starter Private Limited Company.
@@ -35,7 +37,7 @@ Here are some ideas to get you started:
 3. A CONTACTLESS SWITCH - Application no: 1405/DEL/2014
 4. WPAN BASED MULTI-NODE LED DYNAMIC DISPLAY DEVICE SYSTEM - Application no: 1557/DEL/2014
 
-## Published Books (17 Nos)
+## Published Books (17 National & International)
 (CRC/Taylor & Francis, Bentham Science, Narosa, GBS, IRP, NIPA and RI publication etc)
 
 1. Rajesh Singh, Anita Gehlot, Sushabhan Choudhury, Bhupendra Singh, “Embedded System based on ATmega Microcontroller-Simulation, Interfacing and Projects”, Narosa Publishing House, 2016, ISBN: 978-81-8487-5720.
