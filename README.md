@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 # Bhupendra Singh
 
-👨‍💻 Director- Technical Affairs | Founder | Inventor | Author | Educator 
-
+👨‍💻 Director- Technical | Founder | Inventor | Author | Educator 
+- Passionate Technologist with over sixteen years of experience in the fields of Embedded Systems, Computer Networks, IoT and Cloud.
 - Founder member and shareholder of SME Dehradun and SolveVolve Private Limited.
 - Director- Technical Affairs and Founder of HillyTech Starter Private Limited Company.
 - Executive Director, Design & Innovative Council in IGET- Intellect Society for Graduates of Engineering & Technology, India.
