@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ## Patents (4 Nos)
 
-1. WPAN based Smart Remote Control for Heater - Application No: 1405/DEL/2014
-2. A System for Assuring Wearing of Helmet by a Rider and a Process Thereof - Application no: 1303/DEL/2014
-3. A CONTACTLESS SWITCH - Application no: 1405/DEL/2014
-4. WPAN BASED MULTI-NODE LED DYNAMIC DISPLAY DEVICE SYSTEM - Application no: 1557/DEL/2014
+1. WPAN based Smart Remote Control for Heater - 1405/DEL/2014
+2. A System for Assuring Wearing of Helmet by a Rider and a Process Thereof - 1303/DEL/2014
+3. A CONTACTLESS SWITCH - 1405/DEL/2014
+4. WPAN BASED MULTI-NODE LED DYNAMIC DISPLAY DEVICE SYSTEM - 1557/DEL/2014
 
 ## Published Books (17 National & International)
 (CRC/Taylor & Francis, Bentham Science, Narosa, GBS, IRP, NIPA and RI publication etc)
