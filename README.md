@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 3. A CONTACTLESS SWITCH-  1405/DEL/2014
 4. WPAN BASED MULTI-NODE LED DYNAMIC DISPLAY DEVICE SYSTEM-   1557/DEL/2014
 
-## Published Books (17 National & International)
+## 17 National & International Published Books
 (CRC/Taylor & Francis, Bentham Science, Narosa, GBS, IRP, NIPA and RI publication etc)
 
 1. Rajesh Singh, Anita Gehlot, Sushabhan Choudhury, Bhupendra Singh, “Embedded System based on ATmega Microcontroller-Simulation, Interfacing and Projects”, Narosa Publishing House, 2016, ISBN: 978-81-8487-5720.
