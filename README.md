@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 # Bhupendra Singh
 BCA, PGDCA, M.Sc.(CS), M.Tech
 
-# - 👨‍💻 Inventor | Author | Educator | Founder | Director
-# - 4 Patents | 53 Indian Copyright Grant | 15 Canadian Copright | 1 Design Patent Grant | 17 National & International Books | 4 Book Chapters
-# - 🔭 Passionate Technologist with over 16 years of experience in the fields of Embedded Systems, Computer Networks, IoT and Cloud.
+## - 👨‍💻 Inventor | Author | Educator | Founder | Director
+## - 4 Patents | 53 Indian Copyright Grant | 15 Canadian Copright | 1 Design Patent Grant | 17 National & International Books | 4 Book Chapters
+## - 🔭 Passionate Technologist with over 16 years of experience in the fields of Embedded Systems, Computer Networks, IoT and Cloud.
 
   
 - Founder member and shareholder of SME Dehradun and SolveVolve Private Limited.
