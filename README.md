@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Bhupendra Singh
 BCA, PGDCA, M.Sc.(CS), M.Tech
 
-- 👨‍💻 Founder | Director | Inventor | Author | Educator
+- 👨‍💻 Inventor | Author | Educator | Founder | Director
 - 4 Patents | 53 Indian Copyright Grant | 15 Canadian Copright | 1 Design Patent Grant | 17 National & International Books | 4 Book Chapters
 - 🔭 Passionate Technologist with over sixteen years of experience in the fields of Embedded Systems, Computer Networks, IoT and Cloud.
 
