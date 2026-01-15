@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 BCA, PGDCA, M.Sc.(CS).
 
 - Inventor | Author | Educator | Founder | Director
-- 84 Patents | 53 Indian Copyright Grant | 15 Canadian Copright | 1 Design Patent Grant | 17 National & International Books | 4 Book Chapters
+- 84 Patents | 53 Indian Copyright Grant | 15 Canadian Copright | 17 National & International Books
 - Passionate Technologist with over 17 years of experience in the fields of Embedded Systems, Computer Networks, IoT and Cloud.
 
 - Founder of SME Dehradun.
