@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 
 # Bhupendra Singh
-BCA, PGDCA, M.Sc.(CS), M.Tech
 
 - Inventor | Author | Educator | Founder | Director
 - 84 Patents | 53 Indian Copyright Grant | 15 Canadian Copright | 17 National & International Books
